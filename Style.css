@@ -1,0 +1,28 @@
+.flex {
+    display: flex;
+    justify-content: center;
+}
+.caixa h1{
+    color: #7e56d8
+    font-size: x-large;
+}
+.caixa h2{
+    font-size: 15px;
+}
+.botao {
+    color: #ffff;
+    width: 160px;
+    padding: 5px 5px;
+    margin: 8px;
+    font-size: 20px;
+    background-color: #7e56d8;
+    display: inline-block;
+} 
+.caixa .direita {
+    padding: 30px;
+    text-align: center;
+  
+}
+.caixa .esquerda{
+    padding: 30px;
+}
